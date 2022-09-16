@@ -13,3 +13,4 @@ How does it work:
 The application has a refresh button on top. Once the refresh button is clicked, the web application will run and scrape new data from other sites. The returned data is updated to MongoDB database, and this new data is queried by the HTML and rendered to the web.
 
 The below Gif showing the demo for this web app.
+![alt text](Missions_to_Mars/output/webscrape.gif)
